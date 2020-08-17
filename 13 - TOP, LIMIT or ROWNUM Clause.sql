@@ -1,0 +1,3 @@
+USE testdb;
+SELECT * FROM CUSTOMERS
+LIMIT 3;
